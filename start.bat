@@ -1,5 +1,5 @@
 echo off
-title By zeykatecool
+title DiscordiaExampleZ
 color a
 cls
 :a
